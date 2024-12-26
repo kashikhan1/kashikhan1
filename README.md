@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kashif Khan</h1>
 <h4 align="center">I have seven years of experience facilitating cutting-edge engineering solutions with a wide range of high-end application and technology skills. Proven ability to leverage full- stack expertise to build interactive and user-centered website designs to scale.</h4>
 
-- 🔭 I’m currently working on [Oware](https://oware.co/)
+- 🔭 I’m currently working on [RIDER PRO]
+
+- PREVIOUS PROJECTS [OWARE] (https://oware.co/)
 
 - 🌱 I’m currently learning **Openai**
 
@@ -9,7 +11,7 @@
 
 - 💬 Ask me about **Node.js, Nest, Openai, redis and new technologies**
 
-- 📫 How to reach me **m.kashikhan93@gmail.com**
+- 📫 How to reach me **imkashifkhanofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

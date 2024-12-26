@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [RIDER PRO]
 
-- Previous Project [OWARE] (https://oware.co/)
+- Previous Project [OWARE](https://oware.co/)
 
 - 🌱 I’m currently learning **Openai**
 
-- 👨‍💻 All of my projects are available at [https://kashifkhan789.github.io/online-cv/print](https://kashifkhan789.github.io/online-cv/print)
+- 👨‍💻 All of my projects are available at [https://kashifkhan789.github.io/online-cv/print](https://kashikhan1.github.io/Muhammad-Kashif-Khan/)
 
 - 💬 Ask me about **Node.js, REACY, Nest, Encore.ts, LLM, Openai, redis and new technologies**
 

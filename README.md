@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kashif Khan</h1>
-<h4 align="center">I have seven years of experience facilitating cutting-edge engineering solutions with a wide range of high-end application and technology skills. Proven ability to leverage full- stack expertise to build interactive and user-centered website designs to scale.</h4>
+<h4 align="center">I have 8 years of experience facilitating cutting-edge engineering solutions with a wide range of high-end application and technology skills. Proven ability to leverage full- stack expertise to build interactive and user-centered website designs to scale.</h4>
 
 - 🔭 I’m currently working on [RIDER PRO]
 
-- PREVIOUS PROJECTS [OWARE] (https://oware.co/)
+- Previous Project [OWARE] (https://oware.co/)
 
 - 🌱 I’m currently learning **Openai**
 
 - 👨‍💻 All of my projects are available at [https://kashifkhan789.github.io/online-cv/print](https://kashifkhan789.github.io/online-cv/print)
 
-- 💬 Ask me about **Node.js, Nest, Openai, redis and new technologies**
+- 💬 Ask me about **Node.js, REACY, Nest, Encore.ts, LLM, Openai, redis and new technologies**
 
 - 📫 How to reach me **imkashifkhanofficial@gmail.com**
 

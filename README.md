@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Openai**
 
-- 👨‍💻 All of my projects are available at [https://kashifkhan789.github.io/online-cv/print](https://kashikhan1.github.io/Muhammad-Kashif-Khan/)
+- 👨‍💻 All of my projects are available at [https://kashikhan1.github.io/Muhammad-Kashif-Khan/](projects)
 
 - 💬 Ask me about **Node.js, REACY, Nest, Encore.ts, LLM, Openai, redis and new technologies**
 

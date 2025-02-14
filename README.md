@@ -2,7 +2,7 @@
 
 ### 🚀 **Tech Lead | Senior Full Stack Developer | Node.js & Cloud Engineering**  
 
-With **8+ years of experience** in building **scalable, high-performance applications**, I specialize in **Node.js, React.js, PostgreSQL, Kafka, Docker, AWS, and Kubernetes**. Passionate about optimizing system performance, developing real-time applications, and mentoring teams to build efficient, maintainable software.  
+With **9+ years of experience** in building **scalable, high-performance applications**, I specialize in **Node.js, React.js, PostgreSQL, Kafka, Docker, AWS, and Kubernetes**. Passionate about optimizing system performance, developing real-time applications, and mentoring teams to build efficient, maintainable software.  
 
 ---
 

@@ -31,6 +31,34 @@ With **9+ years of experience** in building **scalable, high-performance applica
 
 ---
 
+## 💼 **Work Experience**  
+
+### **🚀 Tech Lead | Senior Node.js Developer - Ali Square (04/2024 - Present)**
+- Led technical direction, making key **architectural decisions**.  
+- Mentored junior developers & conducted **code reviews**.  
+- Ensured software applications meet **industry standards & best practices**.  
+
+### **💡 Senior Full Stack Developer - Democy (05/2021 - 04/2024, Germany)**  
+- Ensured **code quality** by writing maintainable code and implementing **automated testing**.  
+- Identified and resolved **critical bugs**, improving system **scalability & reliability**.  
+- Stayed ahead of **industry trends**, introducing new **tools & technologies**.  
+
+### **🔧 Full Stack Developer - DevSurge (01/2022 - 05/2023, Lahore, Pakistan)**  
+- Led **high-level architectural discussions**, ensuring solutions align with project goals.  
+- **Reduced order processing time** from **1 minute to 4 seconds** by redesigning algorithms.  
+- Developed scripts for **data automation**, improving system efficiency.  
+
+### **💻 Full Stack Engineer - glasc.io (05/2018 - 01/2022, Johannesburg, South Africa)**  
+- Developed and optimized **software architectures** aligned with business goals.  
+- Built and maintained **full-stack software components**.  
+- Fixed **critical bugs**, ensuring a stable and scalable system.  
+
+### **🌍 Full Stack Engineer - Barefoot&Co (01/2017 - 03/2018, Belgium)**  
+- Designed and optimized **backend architectures (APIs, databases, server-side logic)**.  
+- Integrated **APIs** and optimized **full-stack performance** for scalability.  
+
+---
+
 ## 🚀 **Key Projects**  
 
 📌 **[Oware - DevSurge](https://oware.co)**  
